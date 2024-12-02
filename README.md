@@ -15,4 +15,6 @@
 * Location: Lokasyon bilgileri (kapsamında şehir, ülke, kapasite, fiyat vb. bilgiler).
 * Guide: Rehber bilgileri (rehber adı, soyadı vb.).
 
+
+
 [![Image](https://i.hizliresim.com/gydczjj.png)](https://hizliresim.com/gydczjj)
