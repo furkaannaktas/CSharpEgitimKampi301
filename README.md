@@ -1,6 +1,6 @@
 # 🚀 EĞİTİM KAMPI 301 İSTATİSTİK UYGULAMASI
 
-Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı`nın 7 projelik kısmını içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda projeye dair teknik detayları bulabilirsiniz:
+# Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı`nın 7 projelik kısmını içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda projeye dair teknik detayları bulabilirsiniz :
 
 # Bu uygulama, eğitim kampı yönetim sistemi üzerinden istatistiksel verileri kullanıcıya sunmak için geliştirilmiştir. Uygulama, veritabanından çeşitli bilgiler alarak, lokasyonlar, kapasite, rehberler ve fiyatlar gibi verilerle ilgili bilgi sağlar. Veritabanı bağlantısı Entity Framework (EF) kullanılarak yapılmaktadır.
 
@@ -14,3 +14,5 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kamp
 * Veritabanı Tabloları:
 * Location: Lokasyon bilgileri (kapsamında şehir, ülke, kapasite, fiyat vb. bilgiler).
 * Guide: Rehber bilgileri (rehber adı, soyadı vb.).
+
+![](https://hizliresim.com/gydczjj)
