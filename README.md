@@ -17,5 +17,5 @@
 
 
 
-![Ekran görüntüsü 2024-12-02 235822](https://github.com/user-attachments/assets/d6fab2d4-13e3-4a0b-aca1-d75706d09295)
+![Ekran görüntüsü 2024-12-02 235822](https://github.com/user-attachments/assets/f5a44188-5b28-40f2-8046-59d1266cd557)
 
